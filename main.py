@@ -1,11 +1,4 @@
-# 1. wyrotować html, 3. połaczyć fast api z bootstrapem nowym, 4. przekazać zmienne do html, obczaić get, post,
-# 5. wrzucić df w html, 6. sconektować się z api, bazą, plikiem, itp., # 8. requests
 
-# to do:
-
-# 7. pierdoły, user, itp., logowania
-# 2. wystawić api - zrozumieć integracje
-# 8. heroku, docker
 
 
 import sqlite3
